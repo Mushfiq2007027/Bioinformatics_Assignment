@@ -1,0 +1,5 @@
+Class,Precision,Recall,F1-Score,Support
+Helix (H),0.7663,0.7779,0.772,631832
+Sheet (E),0.7171,0.624,0.6673,422220
+Coil (C),0.7257,0.7652,0.7449,831570
+Macro Average,0.7363,0.7223,0.7281,1885622
